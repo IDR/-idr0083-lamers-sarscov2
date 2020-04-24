@@ -1,0 +1,109 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.																					
+																					
+# STUDY DESCRIPTION SECTION																					
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details																					
+																					
+Comment[IDR Study Accession]	idr0083																				
+Study Title	SARS-CoV-2 productively Infects Human Gut Enterocytes	
+													
+Study Type	high resolution electron microscopy																				
+Study Type Term Source REF																					
+Study Type Term Accession																					
+Study Description	COVID-19, caused by the SARS-CoV-2 virus, is a flu-like disease with a respiratory route of transmission, yet clinical evidence suggests that the intestine may present another viral target organ. Indeed, the SARS-CoV-2 receptor ACE2 (angiotensin converting enzyme 2) is highly expressed on differentiated enterocytes. In human small intestinal organoids, enterocytes were readily infected by SARS-CoV and SARS-CoV2 as demonstrated by confocal- and electron-microscopy. Consequently, significant titers of infectious viral particles were measured. mRNA expression analysis revealed strong induction of a generic viral response program. We conclude that intestinal epithelium supports SARS-CoV-2 replication.	
+				
+
+Study Key Words	SARS-CoV-2	Gut	COVID-19	Organoids	Enterocytes	Intestine	
+											
+Study Organism	Homo sapiens	Severe acute respiratory syndrome coronavirus 2		
+
+
+Study Organism Term Source REF	NCBITaxon	NCBITaxon																	
+Study Organism Term Accession	9606	2697049																			
+Study Experiments Number	1																				
+Study External URL		
+
+Study BioImage Archive Accession																			
+Study Public Release Date																					
+																					
+# Study Publication																					
+Study PubMed ID																					
+Study Publication Title	SARS-CoV-2 productively Infects Human Gut Enterocytes																				
+Study Author List	Lamers MM, Beumer J, van der Vaart J, Knoops K, Puschhof J, Breugem TI, Ravelli RBG, van Schayck JP, Mykytyn AZ, Duimel HQ, van Donselaar E, Riesebosch S, Kuijpers HJH, Schipper D, van de Wetering WJ, de Graaf M, Koopmans M, Cuppen E, Peters PJ, Haagmans BL, Clevers H 																				
+Study PMC ID																			
+Study DOI																				
+																					
+# Study Contacts																					
+Study Person Last Name	van Schayck	
+Study Person First Name	Paul
+Study Person Email	p.vanschayck@maastrichtuniversity.nl	
+Study Person Address	The Maastricht Multimodal Molecular Imaging Institute, Maastricht University, 6229 ER Maastricht, Netherlands.																					
+Study Person ORCID	https://orcid.org/0000-0001-6591-4637													
+Study Person Roles	EM data acquisition	data submitter	Sample preparation	Corresponding author
+																					
+# Study License and Data DOI																					
+Study License	CC BY 4.0																				
+Study License URL	https://creativecommons.org/licenses/by/4.0/					
+
+Study Copyright	Maastricht University																				
+Study Data Publisher	University of Dundee																				
+Study Data DOI																																	
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																	
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																	
+																					
+																					
+# EXPERIMENT SECTION																					
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment																					
+																					
+Experiment Number	1																				
+Comment[IDR Experiment Name]	idr0083-lamers-sarscov2/experimentA	
+
+Experiment Sample Type	tissue				
+
+Experiment Description	TEM analysis of SARS-CoV-2 infected intestine organoids																				
+Experiment Size	5D Images: 2	Average Image Dimension (XYZCT): XY	Total Tb: 0.07	# fill in any values you know																	
+Experiment Example Images																					
+Experiment Imaging Method	unsupervised transmission electron microscopy																				
+Experiment Imaging Method Term Source REF	FBbi																				
+Experiment Imaging Method Term Accession	FBbi_00000622																				
+Experiment Comments																					
+																					
+# assay files																					
+Experiment Assay File	idr0000-experimentB-assays.txt																				
+Experiment Assay File Format	tab-delimited text																				
+Assay Experimental Conditions	SARS-CoV-2 infection																				
+Assay Experimental Conditions Term Source REF	EFO																				
+Assay Experimental Conditions Term Accession	EFO_0000694																				
+Quality Control Description	Mock infected organoids																				
+																					
+# Protocols																					
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																	
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																	
+Protocol Type Term Source REF	EFO	EFO																			
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																			
+Protocol Description																		
+																					
+# Phenotypes																					
+Phenotype Name	virus replication	virus production																			
+Phenotype Description	Double membrane vesicles	infected Golgi apparatus																			
+Phenotype Score Type	manual																				
+Phenotype Term Source REF	CMPO	CMPO																			
+Phenotype Term Name	Golgi apparatus																			
+Phenotype Term Accession	GO_0005794	 																		
+																					
+																					
+# Feature Level Data Files (give individual file details unless there is one file per well)																					
+Feature Level Data File Name																					
+Feature Level Data File Format																					
+Feature Level Data File Description																					
+Feature Level Data Column Name																					
+Feature Level Data Column Description																					
+																					
+#  Processed Data Files 																					
+Processed Data File Name	idr0000-experimentB-processed																				
+Processed Data File Format	tab-delimited text																				
+Processed Data File Description																					
+Processed Data Column Name																					
+Processed Data Column Type																					
+Processed Data Column Annotation Level																					
+Processed Data Column Description																					
+Processed Data Column Link To Assay File																					
