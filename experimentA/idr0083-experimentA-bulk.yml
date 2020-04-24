@@ -9,3 +9,4 @@ skip:
 columns:
   - target
   - path
+  - name

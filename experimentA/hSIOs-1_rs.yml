@@ -1,0 +1,12 @@
+---
+channels:
+    1:
+        active: true
+        color: '808080'
+        end: 10000.0
+        label: '0'
+        start: 3500.0
+greyscale: true
+t: 1
+z: 1
+version: 2

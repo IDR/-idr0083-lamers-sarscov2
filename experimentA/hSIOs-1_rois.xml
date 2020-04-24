@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd"
+ >
+
+        <ROI ID="ROI:1761">
+            <Union>
+                <Polygon ID="Shape:1761" Text="Figure 4a" Points="4251.00,24361.50 74065.50,28285.50 68343.00,153036.00 817.50,150093.00" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1762">
+            <Union>
+                <Polygon ID="Shape:1762" Text="Figure 4b" Points="31759.88,72246.56 52422.19,73207.13 50623.69,93992.06 30043.13,92745.38" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1763">
+            <Union>
+                <Polygon ID="Shape:1763" Text="Figure 4c" Points="367.88,123033.75 25669.50,125772.38 23666.63,150256.50 -1267.13,147926.63" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1764">
+            <Union>
+                <Polygon ID="Shape:1764" Text="Figure 4d" Points="38187.47,78541.31 35918.91,78505.55 35980.22,76369.83 38228.34,76410.70" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1765">
+            <Union>
+                <Polygon ID="Shape:1765" Text="Figure 4e" Points="8420.25,106356.75 25628.63,107746.50 23421.38,125976.75 6499.13,124587.00" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1767">
+            <Union>
+                <Polygon ID="Shape:1767" Text="Figure 4f" Points="981.00,134772.54 1956.89,136438.20 107.30,137490.73 -648.89,135549.16" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1768">
+            <Union>
+                <Polygon ID="Shape:1768" Text="Figure 4g" Points="56.20,135809.74 275.91,136141.85 669.33,135906.82 480.28,135538.95" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1769">
+            <Union>
+                <Polygon ID="Shape:1769" Text="Figure 4h" Points="2792.27,138741.25 2817.82,139880.64 740.86,139944.50 712.76,138805.11" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1770">
+            <Union>
+                <Polygon ID="Shape:1770" Text="Figure 4i" Points="8982.28,107012.03 8146.90,107747.78 9649.05,109349.57 10446.12,108567.83" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1771">
+            <Union>
+                <Polygon ID="Shape:1771" Text="Figure 4j" Points="22608.98,122407.85 22476.14,120185.27 24596.53,120037.10 24708.94,122264.79" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1772">
+            <Union>
+                <Polygon ID="Shape:1772" Text="Figure 4k" Points="35229.14,84155.24 33095.98,84198.67 33108.75,85322.73 35257.24,85248.64" />
+            </Union>
+        </ROI>
+        
+</OME>

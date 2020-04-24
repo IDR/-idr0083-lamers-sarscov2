@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd"
+ >
+
+        <ROI ID="ROI:1755">
+            <Union>
+                <Polygon ID="Shape:1755" Text="Figure 4l" Points="137475.00,69214.00 124432.50,7033.00 35391.00,26420.50 46741.50,89377.00" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1756">
+            <Union>
+                <Polygon ID="Shape:1756" Text="Figure 4m" Points="103035.75,50355.25 117964.13,54426.63 122546.63,40344.25 107547.75,36413.88" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1757">
+            <Union>
+                <Polygon ID="Shape:1757" Text="Figure 4n" Points="88953.38,68914.38 82696.50,87403.00 63079.88,81886.38 69548.25,64032.25" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1758">
+            <Union>
+                <Polygon ID="Shape:1758" Text="Figure 4o" Points="104622.00,9218.50 100744.50,23142.25 115761.00,26949.25 119532.75,12355.75" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1759">
+            <Union>
+                <Polygon ID="Shape:1759" Text="Figure 4p" Points="113059.97,43979.41 112676.63,45962.22 114866.53,46380.81 115258.69,44353.94" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1760">
+            <Union>
+                <Polygon ID="Shape:1760" Text="Figure 4q" Points="78325.50,68262.25 80524.22,68588.31 80162.91,70663.66 77906.91,70275.91" />
+            </Union>
+        </ROI>
+        
+        <ROI ID="ROI:1766">
+            <Union>
+                <Polygon ID="Shape:1766" Text="Figure 4r" Points="80013.09,76455.67 81678.66,76777.33 81317.34,78222.58 79669.41,77887.70" />
+            </Union>
+        </ROI>
+        
+</OME>
