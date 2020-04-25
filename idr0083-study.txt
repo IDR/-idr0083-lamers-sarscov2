@@ -10,9 +10,15 @@ Study Title	SARS-CoV-2 productively Infects Human Gut Enterocytes
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Study Type	high resolution electron microscopy																				
 Study Type Term Source REF																					
 Study Type Term Accession																					
+=======
+Study Type	high resolution electron microscopy																				
+Study Type Term Source REF																					
+Study Type Term Accession																					
+>>>>>>> 2ff35cd64a9275be55c3d8e274add8108ed3d3e9
 =======
 Study Type	high resolution electron microscopy																				
 Study Type Term Source REF																					
