@@ -6,39 +6,9 @@
 Comment[IDR Study Accession]	idr0083																				
 Study Title	SARS-CoV-2 productively Infects Human Gut Enterocytes	
 													
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Study Type	high resolution electron microscopy																				
-Study Type Term Source REF																					
-Study Type Term Accession																					
-=======
-Study Type	high resolution electron microscopy																				
-Study Type Term Source REF																					
-Study Type Term Accession																					
->>>>>>> 2ff35cd64a9275be55c3d8e274add8108ed3d3e9
-=======
-Study Type	high resolution electron microscopy																				
-Study Type Term Source REF																					
-Study Type Term Accession																					
->>>>>>> 2ff35cd64a9275be55c3d8e274add8108ed3d3e9
-=======
-Study Type	high resolution electron microscopy																				
-Study Type Term Source REF																					
-Study Type Term Accession																					
->>>>>>> 2ff35cd64a9275be55c3d8e274add8108ed3d3e9
-=======
-Study Type	high resolution electron microscopy																				
-Study Type Term Source REF																					
-Study Type Term Accession																					
->>>>>>> 2ff35cd64a9275be55c3d8e274add8108ed3d3e9
-=======
-Study Type	high resolution electron microscopy																				
-Study Type Term Source REF																					
-Study Type Term Accession																					
->>>>>>> 2ff35cd64a9275be55c3d8e274add8108ed3d3e9
+Study Type	infection	electron microscopy volume map																		
+Study Type Term Source REF	EFO																				
+Study Type Term Accession	EFO_0000544																				
 Study Description	COVID-19, caused by the SARS-CoV-2 virus, is a flu-like disease with a respiratory route of transmission, yet clinical evidence suggests that the intestine may present another viral target organ. Indeed, the SARS-CoV-2 receptor ACE2 (angiotensin converting enzyme 2) is highly expressed on differentiated enterocytes. In human small intestinal organoids, enterocytes were readily infected by SARS-CoV and SARS-CoV2 as demonstrated by confocal- and electron-microscopy. Consequently, significant titers of infectious viral particles were measured. mRNA expression analysis revealed strong induction of a generic viral response program. We conclude that intestinal epithelium supports SARS-CoV-2 replication.	
 				
 
@@ -52,7 +22,7 @@ Study Organism Term Accession	9606	2697049
 Study Experiments Number	1																				
 Study External URL		
 
-Study BioImage Archive Accession																			
+Study EMPIAR Accession																			
 Study Public Release Date																					
 																					
 # Study Publication																					
