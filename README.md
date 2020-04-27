@@ -1,8 +1,3 @@
 # idr0083-lamers-sarscov2
 
-## Import status
-| Task | Duration | Checked |
-| :----: |:----:| :----:|
-| Images| -- | -- |
-| Thumbnails | -- | -- |
-| Annotations | -- | -- |
+COVID-19, caused by the SARS-CoV-2 virus, is a flu-like disease with a respiratory route of transmission, yet clinical evidence suggests that the intestine may present another viral target organ. Indeed, the SARS-CoV-2 receptor ACE2 (angiotensin converting enzyme 2) is highly expressed on differentiated enterocytes. In human small intestinal organoids, enterocytes were readily infected by SARS-CoV and SARS-CoV2 as demonstrated by confocal- and electron-microscopy. Consequently, significant titers of infectious viral particles were measured. mRNA expression analysis revealed strong induction of a generic viral response program. We conclude that intestinal epithelium supports SARS-CoV-2 replication.
