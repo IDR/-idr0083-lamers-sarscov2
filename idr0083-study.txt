@@ -22,7 +22,7 @@ Study Organism Term Accession	9606	2697049
 Study Experiments Number	1																				
 Study External URL		
 
-Study EMPIAR Accession																			
+Study EMPIAR Accession	EMPIAR-10404																			
 Study Public Release Date	2020-04-27																					
 																					
 # Study Publication																					
@@ -30,7 +30,7 @@ Study PubMed ID
 Study Publication Title	SARS-CoV-2 productively Infects Human Gut Enterocytes																				
 Study Author List	Lamers MM, Beumer J, van der Vaart J, Knoops K, Puschhof J, Breugem TI, Ravelli RBG, van Schayck JP, Mykytyn AZ, Duimel HQ, van Donselaar E, Riesebosch S, Kuijpers HJH, Schipper D, van de Wetering WJ, de Graaf M, Koopmans M, Cuppen E, Peters PJ, Haagmans BL, Clevers H 																				
 Study PMC ID																			
-Study DOI																				
+Study DOI	https://doi.org/10.1126/science.abc1669																					
 																					
 # Study Contacts																					
 Study Person Last Name	van Schayck	
@@ -46,7 +46,7 @@ Study License URL	https://creativecommons.org/licenses/by/4.0/
 
 Study Copyright	Maastricht University																				
 Study Data Publisher	University of Dundee																				
-Study Data DOI																																	
+Study Data DOI	https://doi.org/10.17867/10000135																																	
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi																	
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																	
 																					
